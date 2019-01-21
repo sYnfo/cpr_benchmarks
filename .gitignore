@@ -1,0 +1,11 @@
+env/
+libs/
+*.bin
+*.csv
+
+allocation/c/allocation
+matrix_mult_single/c/matrix_mult_single
+matrix_vect_multiple/c/matrix_vect_multiple
+operation/c/operation
+sampling/c/sampling
+simulation/c/simulation
