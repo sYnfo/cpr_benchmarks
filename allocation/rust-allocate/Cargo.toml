@@ -1,0 +1,8 @@
+[package]
+name = "rust-allocate"
+version = "0.1.0"
+authors = ["Matej Stuchlik <matej.stuchlik@exponea.com>"]
+edition = "2018"
+
+[dependencies]
+csv = "1.0.5"
